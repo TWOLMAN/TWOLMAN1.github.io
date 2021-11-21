@@ -1,4 +1,4 @@
-ï»¿.ax_default {
+.ax_default {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
@@ -9,56 +9,57 @@
   text-align:center;
   line-height:normal;
   text-transform:none;
+  width:-webkit-min-content
 }
 .image {
 }
-._ä¸€çº§æ ‡é¢˜ {
+._Ò»¼¶±êÌâ {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-._äºŒçº§æ ‡é¢˜ {
+._¶ş¼¶±êÌâ {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
-._ä¸‰çº§æ ‡é¢˜ {
+._Èı¼¶±êÌâ {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
-._å››çº§æ ‡é¢˜ {
+._ËÄ¼¶±êÌâ {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
-._äº”çº§æ ‡é¢˜ {
+._Îå¼¶±êÌâ {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
-._å…­çº§æ ‡é¢˜ {
+._Áù¼¶±êÌâ {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:10px;
   text-align:left;
 }
-._æ–‡æœ¬æ®µè½ {
+._ÎÄ±¾¶ÎÂä {
   text-align:left;
 }
-._è¡¨å•æç¤º {
+._±íµ¥ÌáÊ¾ {
   color:#999999;
 }
-._è¡¨å•ç¦ç”¨ {
+._±íµ¥½ûÓÃ {
 }
 textarea, select, input, button { outline: none; }
